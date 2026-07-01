@@ -109,3 +109,20 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+.images{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.single{
+  width: 500px;
+}
+.buttons{
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+  justify-content: center;
+}
